@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"God does not play dice with the universe, but I do."
 Use the left arrow to go back!
